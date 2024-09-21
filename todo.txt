@@ -1,0 +1,6 @@
+
+* https://people.duke.edu/~hpgavin/SystemID/References/Richardson-PCA-2009.pdf
+* https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/
+* https://www.datacamp.com/category/probability-and-statistics
+* https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf
+* https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/?couponCode=LEADERSALE24A
